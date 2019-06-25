@@ -1,4 +1,4 @@
-package com.zly.mybatis.generator;
+package com.zly.mybatisplus.generator;
 
 import com.baomidou.mybatisplus.core.exceptions.MybatisPlusException;
 import com.baomidou.mybatisplus.core.toolkit.StringPool;
